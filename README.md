@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annachris3
+- 👋 Hello, I'm Anna Chris Oliveira!
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning html, css
 - 💞️ I’m looking to collaborate on front end development
