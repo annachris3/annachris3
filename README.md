@@ -4,11 +4,12 @@ Passionate about technology and constant learning 👩🏽‍💻<br>
 
 Currently programing with:<br>
 <div style="display:inline-block">
-<img align="center" alt="annachris-js" heigt="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="center" alt="annachris-angular" heigt="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="center" alt="annachris-bootstrap" heigt="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align="center" alt="annachris-css" heigt="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img align="center" alt="annachris-html" heigt="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img align="center" alt="angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+<img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="center" alt="bootstrap"  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="center" alt="css3"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+
 </div><br>
 
 ##
@@ -17,8 +18,8 @@ Currently programing with:<br>
 </div><br>
 <div>
 Contact me in:<br>
-<a href = "mailto:annachris3@gmail.com"><img heigt="10" width="60" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/anna-oliveira-70684b163/" target="_blank"><img heigt="60" width="80" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:annachris3@gmail.com"><img title="Email" src="https://img.shields.io/badge/annachris3@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anna-oliveira-70684b163"><img title="LinkedIn" src="https://img.shields.io/badge/annaoliveira-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </div>
 <!---
 annachris3/annachris3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
